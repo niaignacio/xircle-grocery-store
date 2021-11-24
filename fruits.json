@@ -1,0 +1,6 @@
+[
+     {"id": 1, "fruitName": "apple", "details": "fruit"},
+     {"id": 2, "fruitName": "strawberry", "details": "fruit"},
+     {"id": 3, "fruitName": "green apple", "details": "fruit"},
+     {"id": 4, "fruitName": "red apple", "details": "fruit"}
+]
